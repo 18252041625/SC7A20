@@ -10,5 +10,5 @@ EPS23主控
 IIC SDA-----21  
 IIC SCK-----22  
 ##测试数据
-+-2g    
+量程+-2g，12bit精度，无外力仅重力时1g=1023个测量值，1=1mg   
 ![测试数据](https://github.com/18252041625/SC7A20/blob/master/%E6%B5%8B%E8%AF%95.png)
